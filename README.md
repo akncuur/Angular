@@ -1,2 +1,2 @@
 # Angular
-You can here Angular sample !
+You can find here Angular sample !
